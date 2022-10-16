@@ -10,5 +10,22 @@
 I'm a Junior Fullstack developer interested in anything tech or IT related, a drive for all things code and a passion for learning new things. I'm
 18 years old and I have a deep passion for space related things, I play Guitar 🎸 and love to spend my time learning new and interesting technologies
 
-## Projects 🖥️ </>
+## Hands on experience ✍️
+Node Js
+Python
+VueJs
+postgreSQL
+Mongodb
+HTML
+CSS
+ExpressJS
+Nunjucks
+PUG
 
+## Projects 🖥️ </>
+Feel free to have a look!
+I have done a lot of professional work for Goodwill Industries including API development, Data Analytics, Gerneralized productivity Dashboards, and software for logging refurbished computer's specifications.
+
+## Contact Me 📱
+**Website - coming soon ** <br>
+**Email - [malachiwatkinsdev@gmail.com](mailto:malachiwatkinsdev@gmail.com)** <br>
