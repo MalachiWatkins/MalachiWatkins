@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://cdn-icons-png.flaticon.com/512/919/919825.png'  style="width:100px;height:100px;">
+  <img src='https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png'  style="width:100px;height:100px;">
 </p>
 <p align='center'>
   <img src='https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png' width="125" height="125">
