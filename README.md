@@ -11,19 +11,19 @@ I'm a Junior Fullstack developer interested in anything tech or IT related, a dr
 18 years old and I have a deep passion for space related things, I play Guitar 🎸 and love to spend my time learning new and interesting technologies
 
 ## Hands on experience ✍️
-Node Js
-Python
-VueJs
-postgreSQL
-Mongodb
-HTML
-CSS
-ExpressJS
-Nunjucks
-PUG
+Node Js <br>
+Python <br>
+VueJs <br>
+postgreSQL <br>
+Mongodb <br>
+HTML <br>
+CSS <br>
+ExpressJS <br>
+Nunjucks <br>
+PUG <br>
 
 ## Projects 🖥️ </>
-Feel free to have a look!
+Feel free to have a look! <br>
 I have done a lot of professional work for Goodwill Industries including API development, Data Analytics, Gerneralized productivity Dashboards, and software for logging refurbished computer's specifications.
 
 ## Contact Me 📱
