@@ -4,7 +4,6 @@
 </p>
 <p align='center'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png' width="125" height="125">
-  <img src='https://i.imgur.com/vJfIiId.png?sanitize=false' width='125' height='125'>
 </p>
 
 ## About Me 📝
