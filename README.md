@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://cdn-icons-png.flaticon.com/512/919/919825.png'  style="width:50px;height:50px;">
+  <img src='https://cdn-icons-png.flaticon.com/512/919/919825.png'  style="width:100px;height:100px;">
 </p>
 <p align='center'>
   <img src='https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png' width="125" height="125">
