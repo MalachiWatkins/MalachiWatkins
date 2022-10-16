@@ -7,7 +7,8 @@
 </p>
 
 ## About Me 📝
-
+I'm a Junior Fullstack developer interested in anything tech or IT related, a drive for all things code and a passion for learning new things. I'm
+18 years old and I have a deep passion for space related things, I play Guitar 🎸 and love to spend my time learning new and interesting technologies
 
 ## Projects 🖥️ </>
 
