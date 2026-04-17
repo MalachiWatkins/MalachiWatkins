@@ -1,10 +1,12 @@
-<p align='center'>
-  <img src='https://e7.pngegg.com/pngimages/353/697/png-clipart-node-js-javascript-front-and-back-ends-computer-software-others-miscellaneous-angle-thumbnail.png'  style="width:150px;height:100px;">
+
+<!-- <p align='center'>
+fix buddy
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png'  style="width:150px;height:100px;">
   <img src='https://cdn.iconscout.com/icon/free/png-512/python-14-569257.png' width="125" height="125">
 </p>
 <p align='center'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png' width="125" height="125">
-</p>
+</p> -->
 
 ## About Me 📝
 I'm a Junior Fullstack developer interested in anything tech or IT related, a drive for all things code and a passion for learning new things. I'm
